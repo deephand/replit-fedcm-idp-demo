@@ -6,7 +6,6 @@ channel = "stable-25_05"
 
 [userenv.shared]
 IDP1_PORT = "5000"
-DEV_ENV = "true"
 IDP1_URL = "https://bbddcaf6-380b-4e5a-b8e1-08eae44d61f9-00-2v5ggpej3d5zx.picard.replit.dev"
 RP_URL = "https://deephand.github.io"
 
